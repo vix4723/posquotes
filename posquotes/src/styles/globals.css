@@ -1,6 +1,10 @@
 @import "@liveblocks/react-ui/styles.css";
 @import "@liveblocks/react-ui/styles/dark/media-query.css";
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   background: #f3f3f3;
